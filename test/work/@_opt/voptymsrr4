@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\hgd\Desktop\test
+T_opt
+Z1 V:?_Q036eDNLQ7:kSl8`I@0
+Z2 04 8 4 work LED_FLOW fast 0
+Z3 =1-b083fea23352-55b72d74-a7-180c
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0b;49
+Z7 dC:\Users\hgd\Desktop\test
+vled
+Z8 Imaecj0_^cKlFGA;`5:NbQ1
+Z9 V1V`]JGgmGF^m]GjG6h2Q<1
+R7
+Z10 w1438067002
+Z11 8C:/Users/hgd/Desktop/test/led.v
+Z12 FC:/Users/hgd/Desktop/test/led.v
+L0 2
+Z13 OE;L;10.0b;49
+r1
+31
+Z14 !s102 -nocovercells
+Z15 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z16 !s100 GJ:jeL<b6eWhzmQ_;S?B43
+Z17 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|C:/Users/hgd/Desktop/test/led.v|
+Z18 !s108 1438067009.860000
+Z19 !s107 C:/Users/hgd/Desktop/test/led.v|
+!s85 0
+vLED_FLOW
+Z20 ITch4:<<Mk;BjD=iQlBAjQ1
+Z21 VncEkh?6njMdHL`NO6bLnI3
+R7
+Z22 w1438068062
+Z23 8C:/Users/hgd/Desktop/test/LED_FLOW.v
+Z24 FC:/Users/hgd/Desktop/test/LED_FLOW.v
+L0 2
+R13
+r1
+31
+Z25 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|C:/Users/hgd/Desktop/test/LED_FLOW.v|
+R14
+R15
+Z26 n@l@e@d_@f@l@o@w
+Z27 !s107 C:/Users/hgd/Desktop/test/LED_FLOW.v|
+Z28 !s100 maRW:LQi_>nQcg7^IW_M]1
+!s85 0
+Z29 !s108 1438068071.629000

@@ -1,0 +1,8 @@
+C:/Users/hgd/Desktop/test/led.v {1 {vlog -work work -vopt -nocovercells C:/Users/hgd/Desktop/test/LED_FLOW.v
+Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+-- Compiling module LED_FLOW
+
+Top level modules:
+	LED_FLOW
+
+} {} {}}
